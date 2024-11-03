@@ -1,2 +1,2 @@
-## intro
-OrangeMoon 是一个专注于web3, crypto, block chain 的 studio
+## About Orange Moon
+OrangeMoon is a specialized studio dedicated to web3, cryptocurrency, and blockchain technologies.
